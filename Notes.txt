@@ -1,0 +1,18 @@
+Assignment link:
+https://drive.google.com/drive/u/0/folders/1kgBfeH6q3EDW_2Iywl1Tw-xJaD5bJqCj
+
+EF Core code first approach
+Study Material: https://techabhimanyu.blogspot.com/2022/06/ef-core-class-library.html
+Reference Links: https://dotnettutorials.net/lesson/entity-framework-core/
+Source Code: https://github.com/kumarabhimanyu/EFCoreDemo
+
+
+Relationship between Entities
+Change data type
+Lazy loading
+Constraints
+Study material link: https://techabhimanyu.blogspot.com/2022/06/entity-relationship-using-ef-core-code.html
+
+use of last and orderby keyword is also updated at the end of the doc 
+https://techabhimanyu.blogspot.com/2022/06/ef-core-class-library.html
+
